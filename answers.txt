@@ -9,3 +9,7 @@ Answer: One field that data science could apply to is finance. To be specific, d
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference is that merging preserves the commit history with a new merge commit, while rebasing creates a linear history by reapplying commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to getting more comfortable with Pandas as I am already used to using Python, Git, and SQL.
